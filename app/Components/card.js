@@ -10,7 +10,7 @@ const card = () => {
         {
             imageUrl:tshirt.src,
             title:"T-Shirt",
-            price:499,
+            price:99,
             quantity:1
         },
         {
